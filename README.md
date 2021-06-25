@@ -28,5 +28,13 @@ implementation "io.gitlab.ikaros0503:readcoin-sdk:1.0.4"
 ReadCoinRepository.create()
 ```
 
-### Class function
+### Using wallet activity
+To use wallet activity, register our wallet activity to your **AndroidManifest.xml**
+```
+<activity android:name="com.ss.readcoin.sdk.views.activities.wallet.WalletActivity"></activity>
+```
+
+### Javadocs
+[ReadCoinRepository]()
+[SdkHelper]()
 

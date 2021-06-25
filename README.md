@@ -35,6 +35,5 @@ To use wallet activity, register our wallet activity to your **AndroidManifest.x
 ```
 
 ### Javadocs
-[ReadCoinRepository]()
-[SdkHelper]()
+[Javadocs](https://github.com/readcoin/sdk/blob/main/html/index.html)
 
